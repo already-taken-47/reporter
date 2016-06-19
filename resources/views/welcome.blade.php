@@ -4,6 +4,7 @@
         <title>Laravel</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="{{ asset('js/lib/knockout-3.4.0.js') }}" ></script>
 
         <style>
             html, body {
